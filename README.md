@@ -2,6 +2,7 @@
 ## Introduction
 This is a flashcard application built using [React native](https://reactnative.dev/) and integrated with  [Firebase Realtime](https://firebase.google.com/) .
 Show multiple questions; touch the card to reveal the answer.
+user can add question
 
 ## Running the App with *npm or Yarn*
 To run the application, execute  `npm install` in the terminal, then `npm start` .
