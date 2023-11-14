@@ -1,6 +1,6 @@
 
 ## Introduction
-This is a flashcard application built using [React native](https://reactnative.dev/) and integrated with  [Firebase Realtime](https://firebase.google.com/) and API [Random questions](https://opentdb.com/).
+This is a Flash card application built using [React native](https://reactnative.dev/) and integrated with  [Firebase Realtime](https://firebase.google.com/) and API [Random questions](https://opentdb.com/).
 Show multiple questions; touch the card to reveal the answer.
 user can add question
 
