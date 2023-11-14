@@ -5,7 +5,7 @@ import { db } from "../../config/firebase";
 import { useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { LinearGradient } from 'expo-linear-gradient';
-import styles from '../styles/settingsScreen';
+import styles from '../styles/CreateQuestionScreen';
 
 
 export default function SettingsScreen() {

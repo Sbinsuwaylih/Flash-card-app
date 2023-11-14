@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { collection, onSnapshot } from "firebase/firestore"
 import { db } from "../../config/firebase"
 import Card from '../hooks/card';
-import styles from '../styles/noteScreen';
+import styles from '../styles/QuizScreen';
 export default function DetailsScreen() {
     const [questions, setQuestions] = useState([]);
     const [loading, setLoading] = useState(false);

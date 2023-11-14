@@ -1,11 +1,9 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, Alert } from 'react-native';
 import styles from '../styles/card';
-import Icon from 'react-native-vector-icons/FontAwesome';
 import { FontAwesome } from '@expo/vector-icons';
 import { deleteDoc, doc } from "firebase/firestore";
 import { db } from "../../config/firebase";
-import { LinearGradient } from 'expo-linear-gradient';
 import FlipCard from 'react-native-flip-card'
 
 const Card = ({ question, answer, choices, questionType, id, routeName }) => {
@@ -84,7 +82,7 @@ const Card = ({ question, answer, choices, questionType, id, routeName }) => {
             } else {
               setShowTrash(true);
               handleDelete();
-              
+
             }
           }}
           style={styles.favoriteButton}
