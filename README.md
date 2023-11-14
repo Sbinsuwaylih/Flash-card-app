@@ -9,7 +9,7 @@ To run the application, execute  `npm install` in the terminal, then `npm start`
 Create a real-time database in Firebase and update the configuration in the project located at:
 *Flash-card-app > src > config > firebase .*
 
-### app user interface
+### The UI
 
 <img src='https://github.com/Sbinsuwaylih/Flash-card-app/assets/117676731/553bc1a9-6dff-45e8-b77b-2adea8c6b9dc' width='350'>
 
