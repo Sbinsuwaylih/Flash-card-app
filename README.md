@@ -19,5 +19,5 @@ Create a real-time database in Firebase and update the configuration in the proj
 <img src='https://github.com/Sbinsuwaylih/Flash-card-app/assets/117676731/c6ec598b-690b-4995-8265-2f0b4218f98d' width='350'>
 
 <img src='https://github.com/Sbinsuwaylih/Flash-card-app/assets/117676731/cc021f8b-5fd7-45fe-93fd-813432aa5be1' width='350'>
-<img src='' width='350'>
+
 
