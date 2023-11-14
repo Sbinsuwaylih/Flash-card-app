@@ -1,9 +1,10 @@
 
 ## Introduction
 This is a Flash card application built using [React native](https://reactnative.dev/) and integrated with  [Firebase Realtime](https://firebase.google.com/) and API [Random questions](https://opentdb.com/).
-* Show questions multiple answers
+* Show questions multiple answers .
 * Touch the card to reveal the answer.
-* User can add question
+* User can add/delete any question he wrote .
+   
 
 ## Setting Up the Real-Time Database in Firebase
 Create a real-time database in Firebase and update the configuration in the project located at:
