@@ -4,7 +4,7 @@ This is a flashcard application built using [React native](https://reactnative.d
 Show multiple questions; touch the card to reveal the answer.
 user can add question
 
-### Setting Up the Real-Time Database in Firebase
+## Setting Up the Real-Time Database in Firebase
 Create a real-time database in Firebase and update the configuration in the project located at:
 *Flash-card-app > src > config > firebase .*
 
