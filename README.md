@@ -7,6 +7,7 @@ This is a Flash card application built using [React native](https://reactnative.
 
 ## Setting Up the Real-Time Database in Firebase
 Create a real-time database in Firebase and update the configuration in the project located at:
+
 *Flash-card-app > src > config > firebase .*
 
 ## Running the App with *npm or Yarn*
